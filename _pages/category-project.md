@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "project"
 layout: archive
 permalink: /project
 ---
