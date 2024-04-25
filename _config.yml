@@ -119,7 +119,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:belivejs01@gmail.com"
+      # url: "mailto:belivejs01@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -297,3 +297,5 @@ defaults:
       comments: # true
       share: true
       related: true
+    sidebar:                  
+        nav: "sidebar-category" 
