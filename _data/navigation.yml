@@ -1,8 +1,5 @@
 # main links
 main:
-  - title: "Projects"
-    url: categories/projects
-    category: "project"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -11,3 +8,8 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar-category:
+  - title: "카테고리"
+    children:
+      - title: "프로젝트"
+        url: "/project"
