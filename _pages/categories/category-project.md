@@ -1,8 +1,9 @@
- ---
- title: "project"
- layout: archive
- permalink: categories/project
- ---
+---
+title: "blog"
+layout: archive
+permalink: /project
+---
 
- {% assign posts = site.categories.project %}
- {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+
+{% assign posts = site.categories.project %}
+{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
