@@ -12,4 +12,4 @@ sidebar-category:
   - title: "카테고리"
     children:
       - title: "프로젝트"
-        url: "/project"
+        url: "categories/project"
