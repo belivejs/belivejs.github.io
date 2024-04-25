@@ -1,7 +1,7 @@
  ---
  title: "project"
  layout: archive
- permalink: /project
+ permalink: categories/project
  ---
 
  {% assign posts = site.categories.project %}
