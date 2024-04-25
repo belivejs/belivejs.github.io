@@ -20,7 +20,7 @@ title                    : "초록 공룡 개발 일지"
 title_separator          : "|"
 subtitle                 : "초록 공룡의 개발 공부"
 name                     : "초록 공룡"
-description              : "안녕하세요. 꾸준히 발전하는 개발자 초록 공룡입니다."
+description              : "개발 공부를 기록하는 블로그"
 url                      : "https://belivejs.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,15 +111,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "초록 공룡"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "안녕하세요. 꾸준히 발전하는 개발자 초록 공룡입니다."
+  location         : "Korea"
+  email            : "belivejs01@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:belivejs01@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
