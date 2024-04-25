@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "깃허브 블로그 포트폴리오 만드는 이유"
+title:  "깃허브 블로그 포트폴리오 시작한 이유"
 categories: 
     - project
 ---
