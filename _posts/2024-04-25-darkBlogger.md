@@ -8,7 +8,7 @@ categories:
 수익형 티스토리 블로거를 위한 프로그램
 
 # 프로그램 UI
-![darkblogger_ui](../assets/images/darkblogger_ui.png)
+![darkblogger_ui](../../assets/images/darkblogger_ui.png)
 
 # 기능
 1. 최적화/저품질 확인
