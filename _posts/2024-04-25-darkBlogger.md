@@ -9,6 +9,7 @@ categories:
 
 # 프로그램 UI
 ![darkblogger_ui](../../assets/images/darkblogger_ui.png)
+![darkblogger_update](../../assets/images/darkblogger_update.png)
 
 # 기능
 1. 최적화/저품질 확인
@@ -20,3 +21,7 @@ categories:
 - 2024.04.25
   - 프로젝트 시작
   - UI 틀 제작
+- 2024.04.30
+  - 최적화/저품질 확인 기능 추가
+  - 키워드 추출 기능 추가
+  - unsplash 이미지 다운로드 기능 추가
